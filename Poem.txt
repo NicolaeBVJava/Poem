@@ -10,3 +10,4 @@ pentru
 cursu
 de
 java
+am facut o noua modificare pentru proiectul meu si asa o sa am ceva de facut mai departe
