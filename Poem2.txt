@@ -1,0 +1,1 @@
+mai avem inca un fisier ca sa vedem ce se intampla cu inca un fisier nou in acelasi folder.
