@@ -11,3 +11,4 @@ cursul
 de
 java
 am facut o modificarepentru proiectul meu si asa o sa am ceva de facut mai departe
+bai sa vezi cate modificari fac eu acum doar ca sa fac un commit la git.
