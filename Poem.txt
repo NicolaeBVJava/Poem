@@ -15,3 +15,4 @@ bai sa vezi cate modificari fac eu acum doar ca sa fac un commit la git.
 inca o modificare pentru ca mi a picat git ul si e naspa rau de tot.
 hai sa facem hora mare si sa mai facem un commit la git.
 mai fac niste modificari caci iar s a intamplat ceva si nu mi dau seama ce anume.
+modific poem penttru verificare push.
